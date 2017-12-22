@@ -27,6 +27,7 @@ changes:
 2. 对象的[原型]也使用全等运算符比较。
 3. 对象的[类型标签]要求相同。
 4. [Object wrappers][] are compared both as objects and unwrapped values.
+4. [对象包装器][]的对象和里面的值都要求相同。
 
 ```js
 const assert = require('assert');
