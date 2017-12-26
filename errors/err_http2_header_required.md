@@ -1,4 +1,4 @@
 
-Used when a required header is missing in an HTTP/2 message.
+在一个HTTP/2消息中，某个必需的header缺失。
 
 <a id="ERR_HTTP2_HEADER_SINGLE_VALUE"></a>
